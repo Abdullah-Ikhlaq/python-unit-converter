@@ -37,10 +37,8 @@ Make sure you have Python installed. Then, install Streamlit using pip:
 
 Start the Streamlit server:
 
-    ```bash
     streamlit run app.py
-    ```
-
+    
 This will open the application in your default web browser.
 
 
