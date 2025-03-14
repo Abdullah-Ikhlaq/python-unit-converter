@@ -30,9 +30,8 @@ To run this project locally, follow these steps:
 
 Make sure you have Python installed. Then, install Streamlit using pip:
 
-    ```bash
     pip install streamlit
-```
+
 
 3. **Run the application**:
 
